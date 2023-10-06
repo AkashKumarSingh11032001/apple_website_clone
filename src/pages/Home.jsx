@@ -3,7 +3,7 @@ import Headers from '../components/Headers'
 import Info from '../components/Info'
 import Section from '../components/Section'
 import Products from '../components/Products'
-import { products ,productsSection} from '../constants/constant'
+import { productsSection} from '../constants/constant'
 
 const Home = () => {
   return (
